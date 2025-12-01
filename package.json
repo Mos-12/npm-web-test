@@ -8,6 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "test": "vitest",
     "format": "prettier --write ."
   },
   "keywords": [],
@@ -22,7 +23,8 @@
     "eslint-plugin-react-hooks": "^7.0.1",
     "globals": "^16.5.0",
     "prettier": "^3.7.1",
-    "vite": "^7.2.4"
+    "vite": "^7.2.4",
+    "vitest": "^4.0.14"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.90.11",
